@@ -1,2 +1,4 @@
 Cartagena
 Cali
+Medellin
+Arauca
